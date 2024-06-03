@@ -86,6 +86,7 @@ I created this repository to add
 | [Svg Path Editor](https://yqnn.github.io/svg-path-editor/) | A svg path editor made by Yann Armelin.                                  |
 | [Crontab Guru](https://crontab.guru/)                      | A cron schedule editor                                                   |
 | [Roadmap](https://roadmap.sh)                              | Technoly roadmaps for you to become a X developer by the end of the year |
+| [Crawlbase](https://crawlbase.com/)                        | Best Data Crawling & Data Scraping Platform |
 
 ## Libraries and Frameworks
 
